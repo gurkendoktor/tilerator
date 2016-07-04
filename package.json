@@ -1,6 +1,6 @@
 {
   "name": "tilerator",
-  "version": "0.0.7",
+  "version": "0.1.0",
   "description": "tilerator is a module to slice a given image into tiles and create a new image with gaps between the tiles. ",
   "main": "index.js",
   "scripts": {
